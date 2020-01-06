@@ -234,7 +234,7 @@ collections:
         file: "src/yml/social.yml"
         fields:
           - label: "GitHub Username"
-            name: "BrunoJu"
+            name: "github_username"
             widget: "string"
             required: false
           - label: "Facebook Username"
