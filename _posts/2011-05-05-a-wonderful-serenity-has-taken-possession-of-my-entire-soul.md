@@ -10,7 +10,7 @@ category: code
 tags:
   - platform
   - javascript
-  - vscode
+  - 历史
 author: thiagorossener
 ---
 
@@ -125,13 +125,3 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
